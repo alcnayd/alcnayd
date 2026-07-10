@@ -13,8 +13,27 @@
 - 🛠️ **System Engineer** at **Hepsiburada**
 - 🖥️ Sunucu, sanallaştırma ve fiziksel altyapı (rack, güç, ağ) yönetimi ile ilgileniyorum
 - 🐳 Konteynerleştirme, otomasyon ve altyapı-kod (IaC) araçlarıyla çalışıyorum
+- 🧭 Yan projem olarak **Rovero**'yu geliştiriyorum — sosyal bir rota & keşif platformu *(yakında)*
 - 🌐 Kişisel sitem: [**alicanaydindag.com.tr**](https://alicanaydindag.com.tr)
 - 📫 Bana ulaşmak için [**LinkedIn**](https://www.linkedin.com/in/alican-ayd%C4%B1nda%C4%9F-532719190/) üzerinden yazabilirsiniz
+
+## 🚀 Live Products
+
+<table align="center">
+<tr>
+<td align="center" width="110"><img src="assets/rovero-logo.png" width="72" alt="Rovero logosu" style="border-radius: 12px;"/><br/><b>Rovero</b></td>
+<td>
+
+**Rovero** — Rotalar, gizli koylar ve keşif hikâyeleri üzerine sosyal bir mobil platform.
+Standart bir navigasyon değil, kullanıcıların kendi hikâyelerini anlattığı bir keşif dünyası.
+
+[![App Store](https://img.shields.io/badge/App%20Store-Yak%C4%B1nda-2A2A2A?style=for-the-badge&logo=apple&logoColor=white)](#)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Yak%C4%B1nda-2A2A2A?style=for-the-badge&logo=googleplay&logoColor=white)](#)
+[![Website](https://img.shields.io/badge/Web-Yak%C4%B1nda-006D77?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
